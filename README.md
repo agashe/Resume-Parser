@@ -1,4 +1,4 @@
-# Dots
+# Resume Parser
 
 A very simple resume parser , that fetch basic information from resume and then format it into JSON payload, the extracted information including :
 
