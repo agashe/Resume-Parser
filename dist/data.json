@@ -1,0 +1,25 @@
+{
+    "personal": {
+        "name": "Omar  Ahmed",
+        "email": "omar@example.com",
+        "phone": "",
+        "mobile": "+966-52145214",
+        "address": "Muscat , Oman"
+    },
+    "skills": [
+        "Perl",
+        "Rust",
+        "Delphi",
+        "Assembly",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "HTMX",
+        "CERTIFICATIONS",
+        "[Certification]",
+        "[Certifyingorganization]"
+    ],
+    "experience": "Senior Software Engineer May 2024",
+    "education": "B.Eng Rocket Science May 2012"
+}
